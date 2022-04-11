@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+
+#banner{
+width: 100%;
+background-image: url(https://media.istockphoto.com/photos/abstract-blur-soft-focus-white-color-interior-of-modern-cleaning-picture-id1153343351?k=20&m=1153343351&s=612x612&w=0&h=ZMmA5P7W3f9FHjk8fC5M08YymDD8pspJ5SwnGlQTQio=);
+background-repeat: no-repeat top center;
+background-size: 100% 100%;
+margin: 0;
+padding: 0;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(187, 202, 202);
+}
+#lo{
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
